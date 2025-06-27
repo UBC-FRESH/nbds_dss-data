@@ -1,2 +1,6 @@
 [datalad "dataset"]
 	id = 28fc3673-10f8-4890-8311-3e9637379c11
+[datalad "specialremote-arbutus-s3"]
+    publicurl = https://object-arbutus.cloud.computecanada.ca/ubc-fresh-nbds_dss-data
+[datalad "common-datasrc.arbutus-public"]
+    url = https://object-arbutus.cloud.computecanada.ca/ubc-fresh-nbds_dss-data
